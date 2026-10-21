@@ -1,5 +1,5 @@
 """
-BGH Distribution — Multi-Industry Lead Scraper v3
+X Distribution — Multi-Industry Lead Scraper v3
 ===================================================
 Scrapes Google Maps for leads across 4 industries in Malaysia & Singapore:
     1. Spa Businesses
