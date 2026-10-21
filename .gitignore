@@ -1,0 +1,29 @@
+# Lead data - never commit (business contact details)
+*.csv
+*.xlsx
+*.xls
+existing_leads.csv
+BGH_Leads_*.csv
+
+# Secrets / local config
+.env
+.env.*
+*.key
+*.pem
+credentials*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Selenium / browser artefacts
+chromedriver*
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
